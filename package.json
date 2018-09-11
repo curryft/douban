@@ -1,0 +1,23 @@
+{
+  "name": "douban",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curryft/douban.git"
+  },
+  "keywords": [
+    "move",
+    "trailer"
+  ],
+  "author": "lzc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/curryft/douban/issues"
+  },
+  "homepage": "https://github.com/curryft/douban#readme"
+}
